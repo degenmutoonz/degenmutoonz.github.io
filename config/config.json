@@ -10,7 +10,7 @@
   "SYMBOL": "MUTNZ",
   "MAX_SUPPLY": 888,
   "WEI_COST": 88000000000000000,
-  "DISPLAY_COST": 0.08,
+  "DISPLAY_COST": 0.088,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/degen-mutoonz",
